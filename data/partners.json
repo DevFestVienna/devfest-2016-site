@@ -1,73 +1,40 @@
 [
-  {
-    "title": "template-creator",
-    "logos": [
-      {
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/logos/gdg-lviv.svg",
-        "width": 170
-      }
-    ]
-  },
-  {
-    "title": "general-partner",
-    "logos": [
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      }
-    ]
-  }
+
+    {
+        "title": "gold-sponsor",
+        "logos": [
+            {
+                "name": "WILLHABEN",
+                "url": "https://jobsbei.willhaben.at",
+                "logoUrl": "../images/logos/logo-willhaben.png"
+            },
+            {
+                "name": "ERSTE Group",
+                "url": "https://www.erstegroup.com",
+                "logoUrl": "../images/logos/logo-erstegroup.svg"
+            }
+        ]
+    },
+
+    {
+        "title": "silver-sponsor",
+        "logos": [
+            {
+                "name": "openForce",
+                "url": "https://www.openforce.com",
+                "logoUrl": "../images/logos/logo-openforce.png"
+            }
+        ]
+    },
+    {
+        "title": "bronze-sponsor",
+        "logos": [
+            {
+                "name": "easyname",
+                "url": "https://www.easyname.at/",
+                "logoUrl": "../images/logos/logo-easyname.png"
+            }
+        ]
+    }
+
 ]
